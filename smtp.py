@@ -6,6 +6,6 @@ s.login("yogi66796@gmail.com", "sainikita")
 #Send the mail
 msg = "Hello!"
  # The /n separates the message from the headers
-s.sendmail("yogi66796@gmail.com","vinodkumarm7.vr@gmail.com", msg)
+s.sendmail("yogi66796@gmail.com","vinodreddym7.vr@gmail.com", msg)
 s.quit()
 
