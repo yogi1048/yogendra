@@ -1,9 +1,11 @@
 class abc:
-	x=10
-	y=48
+	x="syed afshana"
+	y="dl-2"
 	def add(ob):
-		c=ob.x+ob.y
+		c=ob.x,ob.y
 		print(c)
+
 p=abc()
-print(p.x,p.y)
-p.add()		
+print(p.x)
+print(p.y)
+p.add()

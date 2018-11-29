@@ -1,4 +1,4 @@
 f=open("dl2.txt","a")
-f.write("programming with python")
+f.write("python programming")
 f=open("dl2.txt","r")
 print(f.read())
